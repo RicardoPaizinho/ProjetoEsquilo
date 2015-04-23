@@ -1,0 +1,40 @@
+
+mosquito.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame1
+  rotate: false
+  xy: 1, 1
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 143, 1
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 285, 1
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 427, 1
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 569, 1
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1

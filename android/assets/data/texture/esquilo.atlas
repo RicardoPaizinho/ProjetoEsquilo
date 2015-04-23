@@ -1,0 +1,117 @@
+
+esquilo.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+troll1
+  rotate: false
+  xy: 1, 63
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+troll2
+  rotate: false
+  xy: 130, 63
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 259, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 389, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 519, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+climb1
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+climb2
+  rotate: false
+  xy: 649, 164
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 63, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+stand1
+  rotate: false
+  xy: 649, 102
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+stand2
+  rotate: false
+  xy: 711, 164
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+stand3
+  rotate: false
+  xy: 125, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 711, 102
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 773, 164
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+walk3
+  rotate: false
+  xy: 187, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+walk4
+  rotate: false
+  xy: 773, 102
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+walk5
+  rotate: false
+  xy: 835, 164
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

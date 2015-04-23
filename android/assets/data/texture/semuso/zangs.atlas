@@ -1,0 +1,47 @@
+
+zangs.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame1
+  rotate: false
+  xy: 1, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 88, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 175, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 262, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 349, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 436, 1
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+Além de dividir a aplicação em três tipos de componentes, o desenho MVC define as 
+interações entre eles.
+Um controlador (controller) pode enviar comandos para sua visão associada para alterar
+ a apresentação da visão do modelo (por exemplo, percorrendo um documento). Ele também 
+ pode enviar comandos para o modelo para atualizar o estado do modelo 
+ (por exemplo, editando um documento).
+Um modelo (model) notifica suas visões e controladores associados quando há uma mudança 
+em seu estado. Esta notificação permite que as visões produzam saídas atualizadas e que 
+os controladores alterem o conjunto de comandos disponíveis. Uma implementação passiva do 
+MVC monta estas notificações, devido a aplicação não necessitar delas ou a plataforma de 
+software não suportá-las.
+A visão (view) solicita do modelo a informação que ela necessita para gerar uma representação
+ de saída.
+ 
+ inimigos com fisica igual a do personagem com colisao cenario, inimigos
+ inimigos fixox na tela, sem update posicao
+ inimigos com movimentacao sem fisica, podem atravesar tudo
+ inimigos indestrutiveis e destrutiveis,pulavel nao pulavel,
+ posinicial
+ dist percorrer
+ movimento
+ 

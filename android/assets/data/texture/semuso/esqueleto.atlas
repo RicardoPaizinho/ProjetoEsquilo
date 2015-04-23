@@ -1,0 +1,40 @@
+
+esqueleto.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soco1
+  rotate: false
+  xy: 1, 355
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
+soco2
+  rotate: false
+  xy: 1, 1
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
+soco3
+  rotate: false
+  xy: 258, 355
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
+stand1
+  rotate: false
+  xy: 258, 1
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
+stand2
+  rotate: false
+  xy: 515, 355
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
